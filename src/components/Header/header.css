@@ -1,0 +1,9 @@
+.header{
+  background: url('/assets/city.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  background-color: rgba(0, 0, 0, 0.575);
+  background-blend-mode: multiply;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}

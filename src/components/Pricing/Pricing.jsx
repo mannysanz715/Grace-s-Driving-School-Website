@@ -1,6 +1,8 @@
 import './Pricing.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
+import Buttons from '../Buttons/Buttons';
+
 import { Link } from 'react-router-dom'
 
 import { useEffect } from 'react'
@@ -46,6 +48,7 @@ function Pricing(){
           <p className='w-[250px]'>And drop off in the Los Angeles area.</p>
         </div>
       </div>
+        <Buttons text="Call / Text to Book" color={"yellow"} href="tel:2138411290"/>
     </div>
   )
 }

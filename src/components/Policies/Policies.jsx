@@ -9,10 +9,16 @@ const Policies = () => {
   },[])
   return (
     <div  className='policies-container'>
-      <div className='flex flex-row bg-[#f5f5f5] items-center pt-10 justify-evenly text-center'>
-        <h1 className='text-black text-3xl font-bold text-center'>Policies List</h1>
-      <img data-aos="zoom-in"  src="/assets/logoBlack.png" className="w-40 h-32 max-sm:w-9/12" alt="school logo" />
-        <Link to='/'className='text-2xl font-bold bg-white p-5 rounded-full hover:bg-slate-200 text-center'>Home </Link>
+      <div className='flex flex-row bg-white items-center p-5 px-16 text-center max-sm:px-2'>
+        <div className='flex-1'>
+          <img data-aos="zoom-in"  src="/assets/logoBlack.png" className="w-40 h-32 max-sm:w-20 max-sm:h-16" alt="school logo" />
+        </div>
+        <div className='flex-2'>
+          <h1 className='text-black text-3xl max-sm:text-xl font-bold text-center flex-2'>Policies List</h1>
+        </div>
+        <div className='flex-1 text-end'>
+          <Link to='/'className='text-2xl max-sm:text-lg font-bold bg-[#f5f5f5] p-5 flex-1 rounded-full hover:bg-slate-200 text-center'>Home </Link>
+        </div>
       </div>
       <ul className="policies-list">
         <li data-aos='fade-up' className='policy-item'>All Packages are paid upfront.</li>

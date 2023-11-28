@@ -6,7 +6,7 @@ function Offerings(){
     <div className="flex flex-col pt-10 bg-yellow-300 max-sm:pb-32 gap-20 max-sm:gap-5 max-sm:pt-14">
       <h1 className="text-sky-400 text-center text-5xl max-sm:text-5xl font-extrabold">Services</h1>
       <div className="h-[32rem] flex flex-col gap-10 justify-evenly items-center bg-yellow-300 max-sm:flex-col max-sm:pt-16 max-sm:h-screen">
-        <OfferCards title="Behind The Wheel Lessons" image='/assets/grace.png' buttonText="Learn More" buttonLink="#pricing" buttonType=""/>
+        <OfferCards title="Behind The Wheel Training" image='/assets/grace.png' buttonText="Learn More" buttonLink="#pricing" buttonType=""/>
         <OfferCards title="Driver's Ed" buttonText="Coming Soon" image="/assets/kid.png" buttonLink="#" buttonType=""/>
       </div>
     </div>

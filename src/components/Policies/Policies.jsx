@@ -22,8 +22,8 @@ const Policies = () => {
       </div>
       <ul className="policies-list">
         <li data-aos='fade-up' className='policy-item'>All lessons are to be paid upfront.</li>
-        <li data-aos='fade-up' className='policy-item'>Package lessons must be completed within 6 months of the purchase date.</li>
-        <li data-aos='fade-up' className='policy-item'>Single lessons that are not paid at the start of the class will be canceled and are subject to a $30 fee for rescheduling the next class.</li>
+        <li data-aos='fade-up' className='policy-item'>All lessons must be completed within 6 months of the purchase date.</li>
+        <li data-aos='fade-up' className='policy-item'>Lessons that are not paid at the start of the class will be canceled and are subject to a $30 fee for rescheduling the next class.</li>
         <li data-aos='fade-up' className='policy-item'>Cancellations within 24 hours of the lesson will be subject to a $30 fee.</li>
         <li data-aos='fade-up' className='policy-item'>All document duplicates are subject to a $25.00 fee.</li>
         <li data-aos='fade-up' className='policy-item'>All driving lessons are 2 hours.</li>

@@ -41,7 +41,7 @@ function Pricing(){
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[30rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px] end">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>Behind the Wheel Test</h3>
-          <p className='text-center font-extrabold text-xl'>Price: $250 - (Flat Rate)</p>
+          <p className='text-center font-extrabold text-xl'>Price: $250 (Flat Rate)</p>
           <p className='w-[250px]'>Pick up within the Los Angeles area 1 hour prior to DMV appointment time.</p>
           <p className='w-[250px]'>All registration and paper work taken care of with DMV.</p>
           <p className='w-[250px]'>Vehicle for the driving exam.</p>

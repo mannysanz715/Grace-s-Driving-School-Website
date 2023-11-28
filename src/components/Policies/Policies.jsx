@@ -21,13 +21,12 @@ const Policies = () => {
         </div>
       </div>
       <ul className="policies-list">
-        <li data-aos='fade-up' className='policy-item'>All Packages are paid upfront.</li>
-        <li data-aos='fade-up' className='policy-item'>Package classes must be scheduled within 6 months of the purchase date.</li>
-        <li data-aos='fade-up' className='policy-item'>Single classes are to be paid prior to the start of the class.</li>
-        <li data-aos='fade-up' className='policy-item'>Single classes that are not paid at the start of the class will be canceled and are subject to a $30 fee for rescheduling the next class.</li>
-        <li data-aos='fade-up' className='policy-item'>Cancellations Within 24 Hours Of The Class Will Be Subject To A $30 Fee</li>
-        <li data-aos='fade-up' className='policy-item'>All Document Duplicates Are Subject To A $25.00 Fee</li>
-        <li data-aos='fade-up' className='policy-item'>All Driving Appointments Are 2 Hours</li>
+        <li data-aos='fade-up' className='policy-item'>All lessons are paid upfront.</li>
+        <li data-aos='fade-up' className='policy-item'>Package lessons must be completed within 6 months of the purchase date.</li>
+        <li data-aos='fade-up' className='policy-item'>Single lessons that are not paid at the start of the class will be canceled and are subject to a $30 fee for rescheduling the next class.</li>
+        <li data-aos='fade-up' className='policy-item'>Cancellations within 24 hours of the lesson will be subject to a $30 fee.</li>
+        <li data-aos='fade-up' className='policy-item'>All document duplicates are subject to a $25.00 fee.</li>
+        <li data-aos='fade-up' className='policy-item'>All driving lessons are 2 hours.</li>
       </ul>
     </div>
 )

@@ -18,7 +18,6 @@ function Pricing(){
     <div id="pricing" className="flex max-sm:pt-10 justify-center items-center pb-20 flex-col gap-10 bg-sky-400">
       <h1 className="text-yellow-300 text-5xl font-extrabold">Pricing</h1>
       <h1 className="text-sm text-white underline font-bold max-sm:w-80 text-center">PACKAGES ARE TO BE PAID AT OR BEFORE THE START OF THE FIRST LESSON</h1>
-      <Link className='text-sm text-white underline font-bold max-sm:w-80 text-center' to='/policies#policies-container' >BEFORE BOOKING GO OVER OUR POLICIES</Link>
 
       <div data-aos='zoom-in' className="flex gap-5 max-sm:flex-col">
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[30rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
@@ -48,6 +47,9 @@ function Pricing(){
           <p className='w-[250px]'>And drop off in the Los Angeles area.</p>
         </div>
       </div>
+      <h1 className="text-yellow-300 text-5xl font-extrabold">Policies</h1>
+        <Link className='text-sm text-white underline font-bold max-sm:w-80 text-center' to='/policies#policies-container' >BEFORE BOOKING GO OVER OUR POLICIES</Link>
+
         <Buttons text="Call / Text to Book" color={"yellow"} href="tel:2138411290"/>
     </div>
   )

@@ -1,5 +1,7 @@
+import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 import Offerings from "../components/Offerings/Offerings";
+import Photos from "../components/Photos/Photos";
 // import NavBar from "../components/NavBar/NavBar";
 import Pricing from "../components/Pricing/Pricing";
 // import SocialMedias from "../components/SocialMedias/SocialMedias";
@@ -25,6 +27,8 @@ function LandingPage(){
         {/* <CardsBanner /> */}
         <Offerings />
         <Pricing />
+        <Photos />
+        <Footer />
       </div>
     </div>
   )

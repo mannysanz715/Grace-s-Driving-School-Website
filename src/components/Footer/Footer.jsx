@@ -13,7 +13,7 @@ function Footer(){
           </div>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" alt="apple-phone"/>
-            <p className="text-white font-bold"> <a href="tel:+12137601883">(213) 760 - 1883,</a><br></br><a href="tel:+12138141290">(213) 841 - 1290</a></p>
+            <p className="text-white font-bold"> <br><a href="tel:+12138141290">(213) 841 - 1290,</a><a href="tel:+12138141290">(213) 841 - 1290</a></br><a href="tel:+12137601883">(213) 760 - 1883</a></p>
           </div>
         </div>
         <div className="flex-2">
@@ -25,7 +25,7 @@ function Footer(){
           <h1 className="text-white text-2xl font-bold">Links:</h1>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
-            <a className="text-white font-bold" target="_blank" href="https://www.instagram.com/graces_driving_school/" rel="noreferrer">@graces_driving_school</a>
+            <a className="text-white font-bold" target="_blank" href="https://www.instagram.com/graces_driving_school/" rel="noreferrer">@gracesdrivingschool</a>
           </div>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios/50/book--v1.png" alt="book--v1"/>

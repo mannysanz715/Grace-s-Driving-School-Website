@@ -21,7 +21,7 @@ export default function Photos(){
               <div className="hidden duration-700 ease-in-out" data-carousel-item>
                   <img src="/assets/image1.jpg"  className="absolute block w-full h-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."/>
               </div>
-            //!Adding as a test
+            
           </div>
 
           <div className="absolute z-30 flex -translate-x-1/2 bottom-5 left-1/2 space-x-3 rtl:space-x-reverse">

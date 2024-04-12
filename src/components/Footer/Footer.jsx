@@ -35,7 +35,7 @@ function Footer(){
       </div>
 
     </div>
-      <div className="flex w-full px-10 justify-between text-white bg-sky-500 py-3 max-sm:text-xs max-sm:px-5">
+      <div className="flex w-screen px-10 justify-between text-white bg-sky-500 py-3 max-sm:text-xs max-sm:px-5">
         <p>Grace's Driving School</p>
         <p>Copyright © 2024. All Rights Reserved</p>
       </div>

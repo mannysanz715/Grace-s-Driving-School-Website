@@ -10,7 +10,7 @@ function Header(){
   },[])
 
   return(
-    <div  className="flex flex-col header max-sm:justify-evenly max-sm:gap-5 justify-center gap-32 py-16 items-center w-screen h-screen">
+    <div  className="flex flex-col header max-sm:justify-evenly max-sm:gap-5 justify-center gap-20 items-center w-screen h-screen">
       <div className='flex flex-col gap-10 items-center w-11/12'>
         <img data-aos="zoom-in"  src="/assets/logo.png" className="w-4/12 h-3/12 max-sm:w-9/12" alt="school logo" />
           <p className='text-white text-4xl font-extrabold text-center '>Your #1 Choice For Driving Lessons</p>

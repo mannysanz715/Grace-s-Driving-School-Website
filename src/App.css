@@ -1,4 +1,12 @@
 html{
   scroll-behavior: smooth;
   scroll-padding-top: 50px;
+  overflow-y: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* hide scrollbar for chrome, safari and opera */
+html::-webkit-scrollbar {
+  display: none;
 }

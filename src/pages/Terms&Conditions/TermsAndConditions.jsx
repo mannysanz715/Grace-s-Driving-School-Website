@@ -13,9 +13,11 @@ export default function TermsAndConditions(){
     <div className="bg-sky-400 text-white flex flex-col justify-center items-center">
     <h1 className="text-lg font-bold flex p-5  justify-center items-center">Terms & Conditions</h1>
     <Link className='text-lg flex-col justify-center items-center w-24 bg-yellow-400 text-white rounded p-3 mb-10 font-bold text-center' to='/' >Go Back Home</Link>
+    <p className="px-10 text-lg font-bold">
+      This contract has an expiration date of 12 months after sign up.
+    </p>  
     <p className="px-10 text-md font-semibold">
       Anyone 18 years old or older trying to take a DMV test is not required to do Drivers Education or Drivers training.
-      This contract has an expiration date of 12 months after sign up.
     </p>  
 <ul className="p-10 flex-col font-semibold gap-10">
     {terms.map((term, idx) =>
@@ -23,7 +25,7 @@ export default function TermsAndConditions(){
         )}
   </ul>
 
-  <ul className="px-10 flex-col font-semibold gap-2">
+  <ul className="px-5 font-semibold">
     <li className="my-4">You will be charged a $50.00 fee</li>
     <li className="my-4">1. for each remaining lesson(s) that is not completed within contractual time.</li>
     <li className="my-4">2. if you do not have your permit at the time of pickup. (class must be rescheduled) It is illegal to drive without it.</li>
@@ -33,10 +35,10 @@ export default function TermsAndConditions(){
 <ul className="font-semibold p-10">
 <li className="font-bold my-4">Do not let your contract expire. </li>
 *YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
-<li className="my-4">
+<li className="my-4 ml-5">
   1. DL 400B: Certificate of Completion of Drivers Education.
 </li>
-<li className="my-4">
+<li className="my-4 ml-5">
   2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
 </li>
 

@@ -8,14 +8,14 @@ import { Link } from 'react-router-dom'
 import { useEffect } from 'react'
 
 
-function Pricing(){
+export default function Pricing(){
   useEffect(()=>{
     Aos.init({duration: 900})
   },[])
 
 
   return(
-    <div id="pricing" className="flex max-sm:pt-10 justify-center items-center pb-20 flex-col gap-10 bg-sky-400">
+    <div id="pricing" className="flex max-sm:pt-10 w-screen justify-center items-center pb-20 flex-col gap-10 bg-sky-400">
       <h1 className="text-yellow-300 text-5xl font-extrabold">Pricing</h1>
       <h1 className="text-sm text-white underline font-bold max-sm:w-80 text-center">PACKAGES ARE TO BE PAID AT OR BEFORE THE START OF THE FIRST LESSON</h1>
 
@@ -58,5 +58,3 @@ function Pricing(){
     </div>
   )
 }
-
-export default Pricing;

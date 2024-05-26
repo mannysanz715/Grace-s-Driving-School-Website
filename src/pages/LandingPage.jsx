@@ -9,7 +9,7 @@ import Pricing from "../components/Pricing/Pricing";
 // import { useState } from "react";
 // import CardsBanner from "../components/CardsBanner/CardsBanner";
 
-function LandingPage(){
+export default function LandingPage(){
   // const [modalState, setModalState] = useState(false);
 
   // function changeModalState(){
@@ -34,4 +34,3 @@ function LandingPage(){
   )
 }
 
-export default LandingPage;

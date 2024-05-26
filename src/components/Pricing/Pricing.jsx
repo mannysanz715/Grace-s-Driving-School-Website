@@ -52,7 +52,7 @@ function Pricing(){
         </div>
       </div>
       <h1 className="text-yellow-300 text-5xl font-extrabold">Policies</h1>
-        <Link className='text-sm text-white underline font-bold max-sm:w-80 text-center' to='/policies#policies-container' >BEFORE BOOKING GO OVER OUR POLICIES</Link>
+        <Link className='text-sm text-white underline font-bold max-sm:w-80 text-center' to='/terms&conditions' >BEFORE BOOKING GO OVER OUR POLICIES</Link>
 
         <Buttons text="Call / Text to Book" color={"yellow"} href="tel:2138411290"/>
     </div>

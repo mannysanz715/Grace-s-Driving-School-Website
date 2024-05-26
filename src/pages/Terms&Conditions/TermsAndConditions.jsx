@@ -14,7 +14,7 @@ export default function TermsAndConditions(){
     <h1 className="text-lg font-bold flex p-5  justify-center items-center">Terms & Conditions</h1>
     <Link className='text-lg flex-col justify-center items-center w-24 bg-yellow-400 text-white rounded p-3 mb-10 font-bold text-center' to='/' >Go Back Home</Link>
     <p className="px-10 text-md font-semibold">
-      Anyone 18 years old or older trying to take a DMV test is not required to do Driver's Education or Driver's training.
+      Anyone 18 years old or older trying to take a DMV test is not required to do Drivers Education or Drivers training.
       This contract has an expiration date of 12 months after sign up.
     </p>  
 <ul className="p-10 flex-col font-semibold gap-10">
@@ -27,7 +27,7 @@ export default function TermsAndConditions(){
     <li className="my-4">You will be charged a $50.00 fee</li>
     <li className="my-4">1. for each remaining lesson(s) that is not completed within contractual time.</li>
     <li className="my-4">2. if you do not have your permit at the time of pickup. (class must be rescheduled) It is illegal to drive without it.</li>
-    <li className="my-4">3. if you do not give the school a 48-hour prior notice to change, cancel, or reschedule your appointment. If you are ill, a doctor's note is required to waive the fee.</li>
+    <li className="my-4">3. if you do not give the school a 48-hour prior notice to change, cancel, or reschedule your appointment. If you are ill, a doctors note is required to waive the fee.</li>
   </ul>
 
 <ul className="font-semibold p-10">
@@ -47,15 +47,15 @@ I am aware that it is illegal to take driving lessons without the proper learner
 </li>
 <li className="my-4">
 48 HOUR NOTICE:
- I understand that I must give Grace's Driving School 48 hour notice  to reschedule or cancel any driving lesson, and that I must pay a fee of $50.00 for failure to do so. I also understand and agree that all rescheduling and cancellations must be arranged with the administrative office and may not be coordinated with the instructors.
+ I understand that I must give Graces Driving School 48 hour notice  to reschedule or cancel any driving lesson, and that I must pay a fee of $50.00 for failure to do so. I also understand and agree that all rescheduling and cancellations must be arranged with the administrative office and may not be coordinated with the instructors.
  </li>
  <li className="my-4">
 SCHEDULE EXCHANGES:
-I am aware that Grace's Driving School not only allows, but encourages students to exchange scheduled driving lessons with other students. When students are unable to attend a scheduled lesson, for whatever reason, this policy helps students and parents avoid penalties for late cancellation or late rescheduling. (Must be from the same area)
+I am aware that Graces Driving School not only allows, but encourages students to exchange scheduled driving lessons with other students. When students are unable to attend a scheduled lesson, for whatever reason, this policy helps students and parents avoid penalties for late cancellation or late rescheduling. (Must be from the same area)
 </li>
 <li className="my-4">
 FREEWAY DRIVING:
-The Department of Motor Vehicles does not require that Driver Training courses include driving on the freeway. We at Grace's Driving School adhere to a strict policy of safety first. Therefore, I understand and agree that instructors have sole discretion to whether any lesson should include freeway driving. 
+The Department of Motor Vehicles does not require that Driver Training courses include driving on the freeway. We at Graces Driving School adhere to a strict policy of safety first. Therefore, I understand and agree that instructors have sole discretion to whether any lesson should include freeway driving. 
 </li>
 <li className="my-4">
 DRIVING TEST FEES:

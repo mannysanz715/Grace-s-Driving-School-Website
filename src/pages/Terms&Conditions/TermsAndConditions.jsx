@@ -10,13 +10,16 @@ let terms = ["1. Your contract starts from the day you sign up. Be sure to take 
 
 export default function TermsAndConditions(){
   return(
-    <div className="bg-sky-400 text-white flex flex-col justify-center items-center">
+    <div className="bg-sky-400 text-white flex flex-col justify-center">
     <h1 className="text-lg font-bold flex p-5  justify-center items-center">Terms & Conditions</h1>
+    <div className='flex felx-col justify-center items-center'>
     <Link className='text-lg flex-col justify-center items-center w-24 bg-yellow-400 text-white rounded p-3 mb-10 font-bold text-center' to='/' >Go Back Home</Link>
-    <p className="px-10 text-lg font-bold">
+
+    </div>
+    <p className="px-10 text-lg font-bold text-center">
       This contract has an expiration date of 12 months after sign up.
     </p>  
-    <p className="px-10 text-md font-semibold">
+    <p className="px-10 text-md font-semibold text-center">
       Anyone 18 years old or older trying to take a DMV test is not required to do Drivers Education or Drivers training.
     </p>  
 <ul className="p-10 flex-col font-semibold gap-10">
@@ -25,23 +28,25 @@ export default function TermsAndConditions(){
         )}
   </ul>
 
-  <ul className="px-5 font-semibold">
-    <li className="my-4">You will be charged a $50.00 fee</li>
-    <li className="my-4">1. for each remaining lesson(s) that is not completed within contractual time.</li>
-    <li className="my-4">2. if you do not have your permit at the time of pickup. (class must be rescheduled) It is illegal to drive without it.</li>
+
+<ul className="font-semibold px-10 pb-5">
+    <li className="my-2">You will be charged a $50.00 fee</li>
+    <li className="my-2">1. for each remaining lesson(s) that is not completed within contractual time.</li>
+    <li className="my-2">2. if you do not have your permit at the time of pickup. (class must be rescheduled) It is illegal to drive without it.</li>
     <li className="my-4">3. if you do not give the school a 48-hour prior notice to change, cancel, or reschedule your appointment. If you are ill, a doctors note is required to waive the fee.</li>
   </ul>
 
-<ul className="font-semibold p-10">
-<li className="font-bold my-4">Do not let your contract expire. </li>
-*YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
-<li className="my-4 ml-5">
-  1. DL 400B: Certificate of Completion of Drivers Education.
+<ul className="font-semibold px-10 pb-5 mb-5">
+    <li className="font-bold my-4">Do not let your contract expire. </li>
+    *YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
+    <li className="my-4 ml-5">
+      1. DL 400B: Certificate of Completion of Drivers Education.
+    </li>
+    <li className="my-4 ml-5">
+      2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
 </li>
-<li className="my-4 ml-5">
-  2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
-</li>
-
+</ul>
+<ul className="font-semibold px-10 pb-5 mb-5">
 <li className="my-4">
 DRIVER TRAINING FEES:
  I understand and agree that if I do not pay the discounted package fee in advance, I must pay for each driving lesson at full price. I further understand and agree that any and all purchases are non-refundable, except upon written request for early cancellation submitted no later than two weeks after signup. I am aware that I must pay a penalty of $50.00 for late cancellation.

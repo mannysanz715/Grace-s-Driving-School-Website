@@ -32,10 +32,13 @@ export default function TermsAndConditions(){
 
 <ul className="font-semibold p-10">
 <li className="font-bold my-4">Do not let your contract expire. </li>
-<li className="my-4"></li>
 *YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
-1. DL 400B: Certificate of Completion of Drivers Education.
-2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
+<li className="my-4">
+  1. DL 400B: Certificate of Completion of Drivers Education.
+</li>
+<li className="my-4">
+  2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
+</li>
 
 <li className="my-4">
 DRIVER TRAINING FEES:

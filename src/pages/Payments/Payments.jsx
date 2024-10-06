@@ -8,14 +8,17 @@ function Payments(){
      <div className="list-container">
         <div className="payment-container">
           <h1 className="payment-title">Single Lesson Payment:</h1>
+          <p className="hours">(2 Hours)</p>
           <BuyButtonComponent buyButtonId={'buy_btn_1NyMkhGBwh195q0L9b4F5DEh'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>
         <div className="payment-container">
           <h1 className="payment-title">3 Lessons Package Payment:</h1>
+          <p className="hours">(6 Hours)</p>
           <BuyButtonComponent buyButtonId={'buy_btn_1NyN0MGBwh195q0LKsOLy30s'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>
         <div className="payment-container">
           <h1 className="payment-title">5 Lessons Package Payment:</h1>
+          <p className="hours">(10 Hours)</p>
           <BuyButtonComponent buyButtonId={'buy_btn_1NyJ1oGBwh195q0L4bi4jeDa'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>
         <div className="payment-container">

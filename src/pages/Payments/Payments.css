@@ -18,6 +18,9 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+.hours{
+  font-size: 22px;
+}
 
 @media screen and (max-width: 950px) {
   .list-container{

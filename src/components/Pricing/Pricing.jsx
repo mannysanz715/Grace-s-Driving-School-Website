@@ -1,4 +1,4 @@
-I'mimport './Pricing.css'
+import './Pricing.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import Buttons from '../Buttons/Buttons';

@@ -1,4 +1,4 @@
-import './Pricing.css'
+I'mimport './Pricing.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import Buttons from '../Buttons/Buttons';
@@ -22,7 +22,7 @@ export default function Pricing(){
       <div data-aos='zoom-in' className="flex gap-5 max-sm:flex-col">
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col justify-center items-center gap-3 text-center m-5 h-[30rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lessons</h3>
-          <p className='text-center font-extrabold text-xl'> Price: $175</p>
+          <p className='text-center font-extrabold text-xl'> Price: $195</p>
           <h4 className='center-text'>Here is what is included in the lessons</h4>
           <p className='w-[250px]'>Pick up and drop off within the Los Angeles area.</p>
           <p className='w-[250px]'>Training during the entire lesson.</p>
@@ -32,10 +32,10 @@ export default function Pricing(){
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[30rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>Lesson Packages</h3>
-          <p className='text-center font-extrabold text-xl'> Silver Package : $450</p>
+          <p className='text-center font-extrabold text-xl'> Silver Package : $520</p>
           <p className='w-[250px] center-text'>DMV 6 Hour Certificate Compliant.</p>
           <p className='w-[250px] center-text'>Inlcudes  3 lessons(6 hours).</p>
-          <p className='text-center font-extrabold text-xl'> Gold Package : $700</p>
+          <p className='text-center font-extrabold text-xl'> Gold Package : $850</p>
           <p className='w-[250px] center-text'>Inlcudes  5 lessons(10 hours).</p>
           <p className='w-[250px] center-text'>DMV 6 Hour Certificate Compliant.</p>
           <p className='w-[250px] font-bold text-lg'>Packages are to be paid in full on or before first lesson. </p>

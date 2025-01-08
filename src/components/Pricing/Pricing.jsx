@@ -35,7 +35,7 @@ export default function Pricing(){
           <p className='text-center font-extrabold text-xl'> Silver Package : $520</p>
           <p className='w-[250px] center-text'>DMV 6 Hour Certificate Compliant.</p>
           <p className='w-[250px] center-text'>Inlcudes  3 lessons(6 hours).</p>
-          <p className='text-center font-extrabold text-xl'> Gold Package : $800</p>
+          <p className='text-center font-extrabold text-xl'> Gold Package : $850</p>
           <p className='w-[250px] center-text'>Inlcudes  5 lessons(10 hours).</p>
           <p className='w-[250px] center-text'>DMV 6 Hour Certificate Compliant.</p>
           <p className='w-[250px] font-bold text-lg'>Packages are to be paid in full on or before first lesson. </p>

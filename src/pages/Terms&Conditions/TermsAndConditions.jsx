@@ -57,8 +57,12 @@ I am aware that it is illegal to take driving lessons without the proper learner
 </li>
 <li className="my-4">
 48 HOUR NOTICE:
- I understand that I must give Graces Driving School 48 hour notice  to reschedule or cancel any driving lesson, and that I must pay a fee of $50.00 for failure to do so. I also understand and agree that all rescheduling and cancellations must be arranged with the administrative office and may not be coordinated with the instructors.
+ I understand that I must give Graces Driving School 48 hour notice  to reschedule or cancel any driving lesson, and that I must pay a fee of $50.00 for failure to do so. I also understand and agree that all rescheduling and cancellations must be arranged with the administrative office and may not be coordinated with the instructors. If we do not recieve a response after 15 minutes upon arrival to the pick up location the class will be conisded as a no-show and the lesson will be lost.
  </li>
+  <li className="my-4">
+Weekend Cancellations:
+ Cancellations for lessons scheduled on Saturday, Sunday, or Monday must be made beofre 1PM on Friday. If a cancelation is made after this time, the lesson will be Forfeited.
+  </li>
  <li className="my-4">
 SCHEDULE EXCHANGES:
 I am aware that Graces Driving School not only allows, but encourages students to exchange scheduled driving lessons with other students. When students are unable to attend a scheduled lesson, for whatever reason, this policy helps students and parents avoid penalties for late cancellation or late rescheduling. (Must be from the same area)

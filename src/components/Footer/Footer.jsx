@@ -9,11 +9,11 @@ function Footer(){
           <h1 className="text-white text-2xl font-bold">Find Us At:</h1>
           <div className="flex justify-center gap-2 items-center">
             <img width="30" height="30" src="https://img.icons8.com/color/48/place-marker--v1.png" alt="place-marker--v1"/>
-            <a target="_blank" href="https://maps.app.goo.gl/8D9wjUYUA4o5yhqx5" className="text-white font-bold" rel="noreferrer">3615 Beverly Blvd Suite A, <br></br>Los Angeles, CA 90004</a>
+            <a target="_blank" href="https://maps.app.goo.gl/8D9wjUYUA4o5yhqx5" className="text-white font-bold" rel="noreferrer">8222 Melrose Ave, Suite 306 <br></br>Los Angeles, CA 90046</a>
           </div>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" alt="apple-phone"/>
-            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290,</a><br></br><a href="tel:+12137601883">(213) 760 - 1883</a></p>
+            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290,</a><br></br>
           </div>
         </div>
         <div className="flex-2">

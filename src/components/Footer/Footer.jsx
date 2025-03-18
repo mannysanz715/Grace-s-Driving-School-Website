@@ -13,7 +13,7 @@ function Footer(){
           </div>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" alt="apple-phone"/>
-            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290,</a><br></br>
+            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290,</a><br></br></p>
           </div>
         </div>
         <div className="flex-2">

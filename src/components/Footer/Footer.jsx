@@ -17,7 +17,7 @@ function Footer(){
           </div>
         </div>
         <div className="flex-2">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d211504.41174669497!2d-118.59194430546877!3d34.075757499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7387eb7f395%3A0x409657caf45fa230!2sGraces%20Driving%20School!5e0!3m2!1sen!2sus!4v1703819819561!5m2!1sen!2sus" width="350" height="350"  loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJK6qJ78m-woARS0Bq_P7Li5s&key=AIzaSyDVvUe4Q3439SnCDQetcU6ybWloToBlo3s" width="350" height="350"  loading="lazy"></iframe>
 
         </div>
 

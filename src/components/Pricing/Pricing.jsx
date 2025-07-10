@@ -30,7 +30,7 @@ export default function Pricing(){
             <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
           </div>
-          <p className='w-[250px] font-bold text-lg'>Please Note: All lessons must be paid in full at the time of booking. </p>
+          <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>Lesson Packages</h3>

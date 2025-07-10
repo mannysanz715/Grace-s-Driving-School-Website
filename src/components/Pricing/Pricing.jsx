@@ -22,7 +22,7 @@ export default function Pricing(){
       <div data-aos='zoom-in' className="flex gap-5 max-sm:flex-col">
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col justify-center items-center gap-3 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lesson</h3>
-          <p className='text-center font-extrabold text-xl'> Price: $195</p>
+          <p className='text-center font-extrabold text-xl'> Price - $195</p>
           <h4 className='center-text font-bold'>Each Lesson Includes: </h4>
           <div className='flex flex-col justify-start'>
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
@@ -45,7 +45,7 @@ export default function Pricing(){
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-4 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px] end">
           <h3 className='text-center text-2xl font-extrabold'>Behind the Wheel Test (Local DMV's)</h3>
-          <p className='text-center font-extrabold text-xl'>Price: $250 </p>
+          <p className='text-center font-extrabold text-xl'>Price - $250 </p>
           <p className='w-[250px]'>Local DMV's Include Hollywood, Culver City, Santa Monica and DTLA.</p>
           <p className='w-[250px]'>Pick up 1 hour prior to DMV appointment time.</p>
           <p className='w-[250px]'>All registration and paper work taken care of with DMV.</p>

@@ -23,11 +23,13 @@ export default function Pricing(){
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col justify-center items-center gap-3 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
           <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lesson</h3>
           <p className='text-center font-extrabold text-xl'> Price: $195</p>
-          <h4 className='center-text'>Here is what is included in the lessons</h4>
-          <p className='w-[250px]'>Pick up and drop off within the Los Angeles area.</p>
-          <p className='w-[250px]'>Training during the entire lesson.</p>
-          <p className='w-[250px]'>Private lesson with patient and experienced instructors.</p>
-          <p className='w-[250px]'>Confidence with safety features such as dual controll systems for instructors.</p>
+          <h4 className='center-text font-bold'>Each Lesson Includes: </h4>
+          <div className='flex flex-col justify-start'>
+            <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
+            <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
+            <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
+            <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
+          </div>
           <p className='w-[250px] font-bold text-lg'>Lesson is to be paid in full at the time of booking. </p>
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">

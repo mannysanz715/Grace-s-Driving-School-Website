@@ -6,18 +6,19 @@ function Footer(){
       <img  src="/assets/logo.png" className="w-2/12  max-sm:w-6/12"></img>
       <div className="flex w-full justify-evenly pt-10 max-sm:flex-col max-sm:gap-5 max-sm:items-center">
         <div className="flex flex-col gap-5 items-center justify-center flex-1">
-          <h1 className="text-white text-2xl font-bold">Find Us At:</h1>
-          <div className="flex justify-center gap-2 items-center">
-            <img width="30" height="30" src="https://img.icons8.com/color/48/place-marker--v1.png" alt="place-marker--v1"/>
-            <a target="_blank" href="https://www.google.com/maps/place/8222+Melrose+Ave,+Los+Angeles,+CA+90046/@34.083547,-118.3714981,782m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2bec9ef89aa2b:0x9b8bcbfefc6a404b!8m2!3d34.0835426!4d-118.3689232!16s%2Fg%2F11bw3z53w7?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D" className="text-white font-bold text-center" rel="noreferrer">8222 Melrose Ave, Suite 306 <br></br>Los Angeles, CA 90046</a>
-          </div>
+          <h1 className="text-white text-2xl font-bold">Contact Us At:</h1>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" alt="apple-phone"/>
-            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290,</a><br></br></p>
+            <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290</a></p>
           </div>
+            <p className="text-white font-bold"> <a href="mailto:gracedrivingteacher@gmail.com">gracedrivingteacher@gmail.com</a><br></br></p>
         </div>
-        <div className="flex-2">
+        <div className="flex flex-col gap-10">
+          <h1 className="text-white text-2xl font-bold text-center">Contact Us At:</h1>
           <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJK6qJ78m-woARS0Bq_P7Li5s&key=AIzaSyDVvUe4Q3439SnCDQetcU6ybWloToBlo3s" width="350" height="350"  loading="lazy"></iframe>
+          <div className="flex justify-center gap-2 items-center">
+            <a target="_blank" href="https://www.google.com/maps/place/8222+Melrose+Ave,+Los+Angeles,+CA+90046/@34.083547,-118.3714981,782m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2bec9ef89aa2b:0x9b8bcbfefc6a404b!8m2!3d34.0835426!4d-118.3689232!16s%2Fg%2F11bw3z53w7?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D" className="text-white font-bold text-center" rel="noreferrer">8222 Melrose Ave, Suite 306 <br></br>Los Angeles, CA 90046</a>
+          </div>
 
         </div>
 

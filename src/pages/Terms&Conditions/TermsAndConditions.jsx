@@ -29,13 +29,6 @@ export default function TermsAndConditions(){
   </ul>
 
 
-<ul className="font-semibold px-10 pb-5">
-    <li className="my-2">You will be charged a $50.00 fee</li>
-    <li className="my-2">1. for each remaining lesson(s) that is not completed within contractual time.</li>
-    <li className="my-2">2. if you do not have your permit at the time of pickup. (class must be rescheduled) It is illegal to drive without it.</li>
-    <li className="my-4">3. if you do not give the school a 48-hour prior notice to change, cancel, or reschedule your appointment. If you are ill, a doctors note is required to waive the fee.</li>
-  </ul>
-
 <ul className="font-semibold px-10 pb-5 mb-5">
     <li className="font-bold my-4">Do not let your contract expire. </li>
     *YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
@@ -48,32 +41,37 @@ export default function TermsAndConditions(){
 </ul>
 <ul className="font-semibold px-10 pb-5 mb-5">
 <li className="my-4">
-DRIVER TRAINING FEES:
- I understand and agree that if I do not pay the discounted package fee in advance, I must pay for each driving lesson at full price. I further understand and agree that any and all purchases are non-refundable, except upon written request for early cancellation submitted no later than two weeks after signup. I am aware that I must pay a penalty of $50.00 for late cancellation.
+FULL PRICE AGREEMENT: If the discounted package price is not paid in advance, each lesson must be paid at the full standard rate.
 </li>
  <li className="my-4">
 LEARNERS PERMIT:
-I am aware that it is illegal to take driving lessons without the proper learners permit issued by the Department of Motor Vehicles. Therefore, I agree that if I fail to bring my learners permit with me to any driving lesson, that lesson will be rescheduled and I will be charged a rescheduling fee of $50.00.
+Students must present their learner's permit at the time of pick-up.
+If a student does not have their permit, the lesson will be canceled and forfeited.
 </li>
 <li className="my-4">
 48 HOUR NOTICE:
- I understand that I must give Graces Driving School 48 hour notice  to reschedule or cancel any driving lesson, and that I must pay a fee of $50.00 for failure to do so. I also understand and agree that all rescheduling and cancellations must be arranged with the administrative office and may not be coordinated with the instructors. If we do not recieve a response after 15 minutes upon arrival to the pick up location the class will be conisded as a no-show and the lesson will be lost.
+ A minimum of 48 hours notice is required for any rescheduling or cancellation. Failure to provide notice will result in a $50 late cancellation fee.
+If the student is not present within 15 minutes of the scheduled pick-up time, the lesson will be marked as a no-show and forfeited. Any cancellations made within 2 hours of the scheduled lesson time will also result in a forfeiture of the lesson.
  </li>
   <li className="my-4">
-Weekend Cancellations:
- Cancellations for lessons scheduled on Saturday, Sunday, or Monday must be made beofre 1PM on Friday. If a cancelation is made after this time, the lesson will be Forfeited.
+WEEKEND CANCELLATIONS:
+Cancellations for lessons scheduled on Saturday, Sunday, or Monday must be made by 3:00 PM on the preceding Friday.
   </li>
  <li className="my-4">
 SCHEDULE EXCHANGES:
-I am aware that Graces Driving School not only allows, but encourages students to exchange scheduled driving lessons with other students. When students are unable to attend a scheduled lesson, for whatever reason, this policy helps students and parents avoid penalties for late cancellation or late rescheduling. (Must be from the same area)
-</li>
+All lesson scheduling, rescheduling, or cancellations must be coordinated through our administrative office only. Instructors are not authorized to make schedule changes directly.</li>
 <li className="my-4">
 FREEWAY DRIVING:
 The Department of Motor Vehicles does not require that Driver Training courses include driving on the freeway. We at Graces Driving School adhere to a strict policy of safety first. Therefore, I understand and agree that instructors have sole discretion to whether any lesson should include freeway driving. 
 </li>
 <li className="my-4">
 DRIVING TEST FEES:
-I understand and agree that there is an additional fee for each driving test that I take and that there are no refunds . I further understand and agree that it is my responsibility to present proof of (certificates), that I have had at least six hours of Drivers Training to the Department of Motor Vehicles.</li>
+DMV behind-the-wheel test services are not included in any of our packages and must be scheduled and paid for separately.The fee applies every time the test is taken.
+</li>
+<li className="my-4">
+REFUNDS:
+All purchases are non-refundable, except when a written request for early cancellation is submitted within two weeks of the initial sign-up date.
+</li>
 </ul>
     </div>
   );

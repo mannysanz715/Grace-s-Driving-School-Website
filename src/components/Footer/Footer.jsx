@@ -12,6 +12,9 @@ function Footer(){
             <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290</a></p>
           </div>
             <p className="text-white font-bold"> <a href="mailto:gracedrivingteacher@gmail.com">gracedrivingteacher@gmail.com</a><br></br></p>
+          <h1 className="text-white text-2xl font-bold">Hours of Operations:</h1>
+            <p className="text-white font-bold">Office Hours: 10am - 4pm Monday-Friday<br></br></p>
+            <p className="text-white font-bold">Lessons: 7 Days a week!<br></br></p>
         </div>
         <div className="flex flex-col gap-10">
           <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJK6qJ78m-woARS0Bq_P7Li5s&key=AIzaSyDVvUe4Q3439SnCDQetcU6ybWloToBlo3s" width="350" height="350"  loading="lazy"></iframe>

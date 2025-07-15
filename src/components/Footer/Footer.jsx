@@ -6,7 +6,7 @@ function Footer(){
       <img  src="/assets/logo.png" className="w-2/12  max-sm:w-6/12"></img>
       <div className="flex w-full justify-evenly pt-10 max-sm:flex-col max-sm:gap-5 max-sm:items-center">
         <div className="flex flex-col gap-5 items-center justify-center flex-1">
-          <h1 className="text-white text-2xl font-bold">Contact Us At:</h1>
+          <h1 className="text-white text-2xl font-bold">Contact Us:</h1>
           <div className="flex justify-center gap-2 items-center">
           <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" alt="apple-phone"/>
             <p className="text-white font-bold"> <a href="tel:+12138411290">(213) 841 - 1290</a></p>

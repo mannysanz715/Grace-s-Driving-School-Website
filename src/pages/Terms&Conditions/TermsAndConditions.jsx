@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 export default function TermsAndConditions(){
   return(
-    <div className="bg-sky-400 text-white flex flex-col justify-center">
+    <div className="bg-sky-400 text-white flex flex-col justify-center items-center">
     <h1 className="text-lg font-bold flex p-5  justify-center items-center">Terms & Conditions</h1>
     <div className='flex felx-col justify-center items-center'>
     <Link className='text-lg flex-col justify-center items-center w-24 bg-yellow-400 text-white rounded p-3 mb-10 font-bold text-center' to='/' >Go Back Home</Link>
@@ -14,12 +14,12 @@ export default function TermsAndConditions(){
     <p className="px-10 text-md font-semibold text-center">
       Anyone 18 years old or older trying to take a DMV test is not required to do Drivers Education or Drivers training.
     </p>  
-<ul className="p-10 flex-col font-semibold gap-10">
+<ul className="p-10 flex-col font-semibold gap-10 lg:w-1/2 justify-center align-center">
     {/* {terms.map((term, idx) =>
         <li key={idx} className="my-4">{term}</li>
         )} */}
         <li className="my-4">1. Your contract starts from the day you sign up. Be sure to take your lessons within the specified amount of time. Do not let your contract expire.</li>
-        <li className="font-bold my-4">2.Package Price Agreement:</li>
+        <li className="font-bold my-4">2. Package Price Agreement:</li>
         <li className="my-4">To take advantage of our discounted package rates, full payment must be made in advance. Please note the following:</li>
           <li className="my-4 ml-5">•	Package prices cannot be split into multiple payments.</li>
           <li className="my-4 ml-5" >•	Single lessons purchased at the standard rate cannot be applied toward or upgraded to a package at a later.</li>

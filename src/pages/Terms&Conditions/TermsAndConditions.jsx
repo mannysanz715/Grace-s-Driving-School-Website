@@ -30,14 +30,17 @@ export default function TermsAndConditions(){
 
 
 <ul className="font-semibold px-10 pb-5 mb-5">
-    <li className="font-bold my-4">Do not let your contract expire. </li>
-    *YOU WILL BE CHARGED $25.00 fee For any duplicate certificate:
+    <li className="font-bold my-4">Other Fees</li>
     <li className="my-4 ml-5">
-      1. DL 400B: Certificate of Completion of Drivers Education.
-    </li>
-    <li className="my-4 ml-5">
-      2. DL 400C Certificate of Completion of Non-Classroom Drivers Education.
+A $25.00 fee will be charged for any duplicate certificate request. This includes:
 </li>
+    <li className="my-4 ml-5">
+	1.	DL 400B – Certificate of Completion of Driver Education
+</li>
+    <li className="my-4 ml-5">
+	2.	DL 400C – Certificate of Completion of Non-Classroom Driver Education
+</li>
+All requests for duplicate certificates must be made directly through our office during regular business hours.
 </ul>
 <ul className="font-semibold px-10 pb-5 mb-5">
 <li className="my-4">

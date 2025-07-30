@@ -22,7 +22,7 @@ export default function TermsAndConditions(){
         <li className="font-bold my-4">2. Package Price Agreement:</li>
         <li className="my-4">To take advantage of our discounted package rates, full payment must be made in advance. Please note the following:</li>
           <li className="my-4 ml-5">•	Package prices cannot be split into multiple payments.</li>
-          <li className="my-4 ml-5" >•	Single lessons purchased at the standard rate cannot be applied toward or upgraded to a package at a later.</li>
+          <li className="my-4 ml-5" >•	Single lessons purchased at the standard rate cannot be applied toward or upgraded to a package at a later time.</li>
         <li className="my-4">3. All driving appointments made are confirmed on first call no matter which family member schedules the lesson. Driving lessons are first come, first serve. If you would like an earlier lesson than your already scheduled time, please request to be placed on a cancellation list.</li>
         <li className="my-4">4. It is the customer's sole responsibility to communicate driving lesson appointments with family members.</li>
         <li className="my-4">5. If you cannot give us a 48 hour cancellation notice, you can make an arrangement to switch the lesson with another student. Please be aware that if the student does not show up for the lesson, you will be responsible for the cancellation fee. You will need to contact our office to let us know which student will be taking your lesson.</li>

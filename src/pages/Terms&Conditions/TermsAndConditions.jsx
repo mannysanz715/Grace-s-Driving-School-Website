@@ -31,7 +31,7 @@ export default function TermsAndConditions(){
         <li className="my-4">8. If we are late picking up the student, the student will get the full 2 hours driving from pick up time. The lesson may sometimes go over two hours depending on traffic. (No extra fee)</li>
         <li className="my-4">9. No one is allowed in our vehicles during driving lessons except for the students and instructor.</li>
         <li className="my-4">10. Students ability to learn within the six (6) hour period may vary depending on the student's abilities. The DMV requires any minors taking the driving test to complete a minimum of 50 hours of driving before they can take the test. We urge parents to practice as much as possible with their children.</li>
-        <li className="my-4">11. No refunds for any used lessons.</li>
+        <li className="my-4">11. We do not guarantee the same instructor or vehicle for each lesson. While we try to accommodate requests, they are not guaranteed. If you only wish to work with specific instructors, you must notify the office in advance - otherwise, we will asign an available instructor.</li>
         <li className="font-bold my-4">12. Behind-the-Wheel Drive Test Package Policy:</li>
         <li className="my-4 ml-5">DMV behind-the-wheel test services are not included in any of our lesson packages and must be scheduled and paid for separately.
 The test service fee applies each time the DMV test is taken.

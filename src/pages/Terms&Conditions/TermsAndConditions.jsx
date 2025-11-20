@@ -21,7 +21,7 @@ export default function TermsAndConditions(){
         <li className="my-4">1. Your contract starts from the day you sign up. Be sure to take your lessons within the specified amount of time. Do not let your contract expire.</li>
         <li className="font-bold my-4">2. Package Price Agreement:</li>
         <li className="my-4">To take advantage of our discounted package rates, full payment must be made in advance. Please note the following:</li>
-          <li className="my-4 ml-5">•	Packaged lessons cannot be used for credit towards DMV Drive Test. (Drive test must be purchased seperately).</li>
+          <li className="my-4 ml-5">•	Package lessons cannot be used for credit towards DMV Drive Test. (Drive test must be purchased seperately).</li>
           <li className="my-4 ml-5">•	Package lessons are non-trasnferable between different students. Each student must pay for their own package.</li>
           <li className="my-4 ml-5">•	Package prices cannot be split into multiple payments.</li>
           <li className="my-4 ml-5" >•	Single lessons purchased at the standard rate cannot be applied toward or upgraded to a package at a later time.</li>

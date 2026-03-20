@@ -17,7 +17,7 @@ export default function Pricing(){
   return(
     <div id="pricing" className="flex max-sm:pt-10 w-screen justify-center items-center pb-20 flex-col gap-10 bg-sky-400">
       <h1 className="text-yellow-300 text-5xl font-extrabold text-shadow-md">Pricing</h1>
-      <h1 className="text-md text-white underline font-bold max-sm:w-80 text-center">ALL LESSONS ARE TO BE PAID AT THE TIME OF BOOKING</h1>
+      <h1 className="text-md text-white underline font-bold max-sm:w-80 text-center">ALL LESSONS ARE TO BE PAID AT THE TIME OF BOOKING -- Prices Subject to Change Based on Payment Method</h1>
 
       <div data-aos='zoom-in' className="flex flex-wrap justify-center gap-5 min-md:w-[1000px] max-sm:flex-col">
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col  justify-center items-center gap-3 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">

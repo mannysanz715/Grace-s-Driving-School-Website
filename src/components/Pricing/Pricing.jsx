@@ -32,7 +32,7 @@ export default function Pricing(){
           <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
-          <p className='text-center font-extrabold text-xl'> Silver Package - $520</p>
+          <p className='text-center font-extrabold text-xl'> Silver Package - $550</p>
           <p className='w-[250px] center-text'>Includes 3 lessons(6 hours total).</p>
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>
@@ -45,7 +45,7 @@ export default function Pricing(){
           
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
-          <p className='text-center font-extrabold text-xl'> Gold Package - $850</p>
+          <p className='text-center font-extrabold text-xl'> Gold Package - $875</p>
           <p className='w-[250px] center-text'>Includes 5 lessons(10 hours total).</p>
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>

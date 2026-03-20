@@ -14,12 +14,12 @@ function Payments(){
         <div className="payment-container">
           <h1 className="payment-title">3 Lessons Package Payment:</h1>
           <p className="hours">(6 Hours)</p>
-          <BuyButtonComponent buyButtonId={'buy_btn_1QeNq4GBwh195q0LaB3OQMLj'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
+          <BuyButtonComponent buyButtonId={'buy_btn_1TCviqGBwh195q0LODsPBNbx'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>
         <div className="payment-container">
           <h1 className="payment-title">5 Lessons Package Payment:</h1>
           <p className="hours">(10 Hours)</p>
-          <BuyButtonComponent buyButtonId={'buy_btn_1QeNnZGBwh195q0LApoR8wI7'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
+          <BuyButtonComponent buyButtonId={'buy_btn_1TCviAGBwh195q0LHyGoq21N'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>
         <div className="payment-container">
           <h1 className="payment-title">Behind the Wheel Drive Test:</h1>

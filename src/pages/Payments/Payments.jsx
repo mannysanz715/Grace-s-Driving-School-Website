@@ -6,7 +6,7 @@ function Payments(){
 
   return(
     <>
-      <h1 className="font-bold text-lg">All Payments Through Stripe Have a ~ 3.5% Transaction Fee (Payments through zelle / venmo / cash are not subject to this fee)</h1>
+      <h1 className="font-bold text-lg justify-center items-center pt-10">All Payments Through Stripe Have a ~ 3.5% Transaction Fee (Payments through Zelle/Venmo/Cash are not subject to this fee)</h1>
      <div className="list-container">
         <div className="payment-container">
           <h1 className="payment-title">Single Lesson Payment:</h1>

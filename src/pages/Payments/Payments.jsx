@@ -9,7 +9,7 @@ function Payments(){
       <h1 className="flex font-bold text-lg justify-center items-center pt-10">All Payments Through Stripe Have a ~ 3.5% Transaction Fee (Payments through Zelle/Venmo/Cash are not subject to this fee)</h1>
      <div className="list-container">
         <div className="payment-container">
-          <h1 className="payment-title">Single Lesson Payment(Office Lesson):</h1>
+          <h1 className="payment-title">Single Lesson Payment (Office Lesson):</h1>
           <p className="hours">(2 Hours)</p>
           <BuyButtonComponent buyButtonId={'buy_btn_1UZeYbGBwh195q0LOC1h2ToY'} pubKey={'pk_live_51NxxpIGBwh195q0LHvF4Jqrjf8mFRprri72Xt63KKQ4x3bPOS2cfGeAlh4Gi56JvgXgAidoRN5v971de4slfivHD0075Hh4m1B'}/>
         </div>

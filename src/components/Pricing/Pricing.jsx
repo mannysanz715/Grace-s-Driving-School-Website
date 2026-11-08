@@ -52,7 +52,6 @@ export default function Pricing(){
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
             <li className='w-[250px]'>Pick-up and drop-off will be done at the same location unless othersie arranged according to our policies.</li>
             <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
-            <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
           </div>
           <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>
@@ -66,7 +65,6 @@ export default function Pricing(){
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
             <li className='w-[250px]'>Pick-up and drop-off will be done at the same location unless othersie arranged according to our policies.</li>
             <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
-            <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
           </div>
           <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>        

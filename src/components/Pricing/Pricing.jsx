@@ -20,8 +20,17 @@ export default function Pricing(){
       <h1 className="text-md text-white underline font-bold max-sm:w-80 text-center">ALL LESSONS ARE TO BE PAID AT THE TIME OF BOOKING -- Prices Subject to Change Based on Payment Method</h1>
 
       <div data-aos='zoom-in' className="flex flex-wrap justify-center gap-5 min-md:w-[1000px] max-sm:flex-col">
+       <div data-aos='fade-up' className="reg-class-pricing flex flex-col  justify-center items-center gap-3 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
+          <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lesson - $150 (Office Based Lesson)</h3>
+          <h4 className='center-text font-bold'>Each Lesson Includes: </h4>
+          <div className='flex flex-col justify-start'>
+            <li className='w-[250px]'>Pick-up and drop-off not included. Lesson starts and ends at our office</li>
+            <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
+            <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
+            <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
+          </div>
       <div data-aos='fade-up' className="reg-class-pricing flex flex-col  justify-center items-center gap-3 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
-          <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lesson - $195</h3>
+          <h3 className='text-center mb-5 text-2xl font-extrabold'>2 Hour Lesson - $205</h3>
           <h4 className='center-text font-bold'>Each Lesson Includes: </h4>
           <div className='flex flex-col justify-start'>
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
@@ -32,7 +41,7 @@ export default function Pricing(){
           <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
-          <p className='text-center font-extrabold text-xl'> Silver Package - $550</p>
+          <p className='text-center font-extrabold text-xl'> Silver Package - $580</p>
           <p className='w-[250px] center-text'>Includes 3 lessons(6 hours total).</p>
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>
@@ -45,7 +54,7 @@ export default function Pricing(){
           
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-5 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px]">
-          <p className='text-center font-extrabold text-xl'> Gold Package - $875</p>
+          <p className='text-center font-extrabold text-xl'> Gold Package - $925</p>
           <p className='w-[250px] center-text'>Includes 5 lessons(10 hours total).</p>
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>
@@ -57,9 +66,19 @@ export default function Pricing(){
           <p className='w-[250px] font-bold text-lg'>Please Note: Payment in full is required at the time of booking. </p>        
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-4 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px] end">
+          <h3 className='text-center text-2xl font-extrabold'>Behind the Wheel Test (Hollywood DMV)</h3>
+          <p className='text-center font-extrabold text-xl'>Price - $2500 </p>
+          <p className='w-[250px]'>Drive test at Hollywood DMV.</p>
+          <p className='w-[250px]'>Pick up 1 hour prior to DMV appointment time.</p>
+          <p className='w-[250px]'>All registration and paper work taken care of with DMV.</p>
+          <p className='w-[250px]'>Vehicle for the driving exam.</p>
+          <p className='w-[250px] font-bold text-lg'>Test is to be paid in full at the time of booking. </p>
+
+        </div>
+        <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-4 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px] end">
           <h3 className='text-center text-2xl font-extrabold'>Behind the Wheel Test (Local DMV's)</h3>
-          <p className='text-center font-extrabold text-xl'>Price - $250 </p>
-          <p className='w-[250px]'>Local DMV's Include Hollywood, Culver City, Santa Monica and DTLA.</p>
+          <p className='text-center font-extrabold text-xl'>Price - $300 </p>
+          <p className='w-[250px]'>Local DMV's Include Culver City, Santa Monica and DTLA.</p>
           <p className='w-[250px]'>Pick up 1 hour prior to DMV appointment time.</p>
           <p className='w-[250px]'>All registration and paper work taken care of with DMV.</p>
           <p className='w-[250px]'>Vehicle for the driving exam.</p>

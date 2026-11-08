@@ -70,7 +70,7 @@ export default function Pricing(){
         </div>
         <div data-aos='fade-up' className="drive-test-pricing flex flex-col justify-center items-center gap-4 text-center m-5 h-[38rem] w-96 max-sm:w-80 p-5 rounded bg-white mb-[50px] end">
           <h3 className='text-center text-2xl font-extrabold'>Behind the Wheel Test (Hollywood DMV)</h3>
-          <p className='text-center font-extrabold text-xl'>Price - $2500 </p>
+          <p className='text-center font-extrabold text-xl'>Price - $250 </p>
           <p className='w-[250px]'>Drive test at Hollywood DMV.</p>
           <p className='w-[250px]'>Pick up 1 hour prior to DMV appointment time.</p>
           <p className='w-[250px]'>All registration and paper work taken care of with DMV.</p>

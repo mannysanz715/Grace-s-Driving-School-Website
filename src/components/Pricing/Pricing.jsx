@@ -36,6 +36,7 @@ export default function Pricing(){
           <h4 className='center-text font-bold'>Each Lesson Includes: </h4>
           <div className='flex flex-col justify-start'>
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
+            <li className='w-[250px]'>Pick-up and drop-off will be done at the same location unless othersie arranged according to our policies.</li>
             <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
             <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
@@ -49,6 +50,7 @@ export default function Pricing(){
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
+            <li className='w-[250px]'>Pick-up and drop-off will be done at the same location unless othersie arranged according to our policies.</li>
             <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
             <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>
@@ -62,6 +64,7 @@ export default function Pricing(){
           <p className='w-[250px] center-text'>This package meets DMV 6-Hour Certificate requirement for minors.</p>
           <div className='flex flex-col justify-start'>
             <li className='w-[250px]'>Pick-up and drop-off within the Los Angeles area.</li>
+            <li className='w-[250px]'>Pick-up and drop-off will be done at the same location unless othersie arranged according to our policies.</li>
             <li className='w-[250px]'>Comprehensive, full-session instruction for the entire 2-hour duration.</li>
             <li className='w-[250px]'>One-on-one private instruction with patient, experienced driving instructors.</li>
             <li className='w-[250px]'>Use of training vehicles equipped with dual control systems for enhanced safety and confidence.</li>

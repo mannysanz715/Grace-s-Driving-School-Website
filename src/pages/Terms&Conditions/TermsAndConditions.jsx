@@ -27,7 +27,9 @@ export default function TermsAndConditions(){
           <li className="my-4 ml-5" >•	Single lessons purchased at the standard rate cannot be applied toward or upgraded to a package at a later time.</li>
         <li className="my-4">3. All driving appointments made are confirmed on first call no matter which family member schedules the lesson. Driving lessons are first come, first serve. If you would like an earlier lesson than your already scheduled time, please request to be placed on a cancellation list.</li>
         <li className="my-4">4. It is the customer's sole responsibility to communicate driving lesson appointments with family members.</li>
-        <li className="my-4">5. If you cannot give us a 48 hour cancellation notice, you can make an arrangement to switch the lesson with another student. Please be aware that if the student does not show up for the lesson, you will be responsible for the cancellation fee. You will need to contact our office to let us know which student will be taking your lesson.</li>
+        <li className="my-4">5. 48-Hour Notice Window: All cancellations or rescheduling requests must be made at least 48 business hours before the scheduled lesson.</li>
+          <li className="my-4 ml-5">• Late Cancellation Fee: Cancellations made outside of business hours or on the same day as the lesson incur a $100 cancellation fee.</li>
+          <li className="my-4 ml-5">• Forfeiture: Cancellations within two hours of the lesson or after the instructor arrives result in complete forfeiture of the lesson with no refunds or credits.</li>
         <li className="my-4">6. All questions must be directed to the office. Driver instructors will refer you back to the office unless the question is about the student's lesson performance.</li>
         <li className="my-4">7. For specific lesson performance questions, please make sure that you contact us as soon as possible after the lesson.</li>
         <li className="my-4">8. If we are late picking up the student, the student will get the full 2 hours driving from pick up time. The lesson may sometimes go over two hours depending on traffic. (No extra fee)</li>
@@ -61,6 +63,9 @@ Drive Test Package is non-refundable once the service is provided, regardless of
         <li className="font-bold my-4">20. Freeway Driving Policy:</li>
         <li className="my-4 ml-5">• The Department of Motor Vehicles does not require freeway driving as part of Driver Training courses. At Grace’s Driving School, we follow a strict safety-first policy.</li>
         <li className="my-4 ml-5">• Therefore, freeway driving is not guaranteed and is offered solely at the instructor’s discretion, based on the student’s readiness and current road conditions.</li>
+        <li className="font-bold my-4">21. Location Changes: Last-minute changes to pickup or drop-off locations are subject to a $50 location-change fee.</li>
+        <li className="font-bold my-4">22. Arrangement Confirmation: All pickup and drop-off logistics must be confirmed in advance to protect instructor availability and scheduling.</li>
+        <li className="font-bold my-4">23. Written Confirmation Requirement: All booked lessons must be confirmed in writing by the school; unconfirmed lessons are not considered scheduled.</li>
         {/* <li className="my-4 ml-10">• </li> 
         <li className="my-4"></li>
         <li className="my-4"></li>

@@ -50,7 +50,7 @@ Drive Test Package is non-refundable once the service is provided, regardless of
 	<li className="my-4 ml-10">•	No-shows (arriving more than 15 minutes late after the instructor arrives)</li>
 <li className="my-4 ml-10">	•	Cancellations within 2 hours of the lesson, or after the instructor has arrived will result in forfeiture of the lesson.</li>
         <li className="my-4 ml-5">Weekend cancellations </li>
-        <li className="my-4 ml-10">• To cancel Saturday, Sunday, or Monday lessons, please notify us by 3:00 PM on the preceding Friday.</li>
+        <li className="my-4 ml-10">• To cancel Sunday, Monday, Tuesday lessons, please notify us by 3:00 PM on the preceding Friday.</li>
         <li className="my-4 ml-5">Schedule changes</li>
         <li className="my-4 ml-10">• All lesson scheduling, rescheduling, or cancellations must be arranged through our administrative office only. Instructors are not authorized to make schedule changes directly.</li>
         <li className="font-bold my-4">18. Learner’s Permit Policy:</li>
